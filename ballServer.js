@@ -1,7 +1,7 @@
 const WebSocketServer = require("ws");
 players = []
 readied = 0
-const wss = new WebSocketServer.Server({port:3000})
+const wss = new WebSocketServer.Server({port:process.env.PORT || 3000})
 
 wss.on("connection",ws => {
     console.log("Connected bitch")
