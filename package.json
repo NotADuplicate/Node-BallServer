@@ -4,8 +4,7 @@
   "description": "nodeJsThing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-    "start": "ballServer.js"
+    "start": "node ballServer.js"
   },
   "author": "",
   "license": "ISC",
