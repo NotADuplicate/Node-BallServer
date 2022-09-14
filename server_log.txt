@@ -1,0 +1,257 @@
+[9/14/2022, 10:44:26 AM]  Config loaded! environment: dev
+[9/14/2022, 10:44:27 AM]  loading initializer: 01_globals.js
+[9/14/2022, 10:44:27 AM]  loading initializer: 02_entities.js
+[9/14/2022, 10:44:27 AM]  loading initializer: 03_maps.js
+[9/14/2022, 10:44:27 AM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 10:44:27 AM]  loading initializer: 04_lobbies.js
+[9/14/2022, 10:44:27 AM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 10:44:27 AM]  loading initializer: 05_constants.js
+[9/14/2022, 10:44:27 AM]  loading initializer: 06_mongodb.js
+[9/14/2022, 10:44:27 AM]  Database is disabled
+[9/14/2022, 10:44:27 AM]  loading initializer: 07_console.js
+[9/14/2022, 10:44:27 AM]  starting the eval console...
+[9/14/2022, 10:44:27 AM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 10:44:27 AM]  loading initializer: 08_ping.js
+[9/14/2022, 10:44:27 AM]  Server running on port 1338!
+[9/14/2022, 10:44:27 AM]  WebSocket Server running on port 3001!
+[9/14/2022, 10:44:27 AM]  loaded initializers!
+[9/14/2022, 12:48:41 PM]  Config loaded! environment: dev
+[9/14/2022, 12:48:42 PM]  loading initializer: 01_globals.js
+[9/14/2022, 12:48:42 PM]  loading initializer: 02_entities.js
+[9/14/2022, 12:48:42 PM]  loading initializer: 03_maps.js
+[9/14/2022, 12:48:42 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 12:48:42 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 12:48:42 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 12:48:42 PM]  loading initializer: 05_constants.js
+[9/14/2022, 12:48:42 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 12:48:42 PM]  Database is disabled
+[9/14/2022, 12:48:42 PM]  loading initializer: 07_console.js
+[9/14/2022, 12:48:42 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 12:48:42 PM]  loading initializer: 08_ping.js
+[9/14/2022, 12:48:42 PM]  starting the eval console...
+[9/14/2022, 12:48:42 PM]  loaded initializers!
+[9/14/2022, 12:48:42 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 12:48:42 PM]  Server running on port 1338!
+[9/14/2022, 12:55:07 PM]  Config loaded! environment: dev
+[9/14/2022, 12:55:08 PM]  loading initializer: 01_globals.js
+[9/14/2022, 12:55:08 PM]  loading initializer: 02_entities.js
+[9/14/2022, 12:55:08 PM]  loading initializer: 03_maps.js
+[9/14/2022, 12:55:08 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 12:55:08 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 12:55:08 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 12:55:08 PM]  loading initializer: 05_constants.js
+[9/14/2022, 12:55:08 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 12:55:08 PM]  Database is disabled
+[9/14/2022, 12:55:08 PM]  loading initializer: 07_console.js
+[9/14/2022, 12:55:08 PM]  starting the eval console...
+[9/14/2022, 12:55:08 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 12:55:08 PM]  loading initializer: 08_ping.js
+[9/14/2022, 12:55:08 PM]  loaded initializers!
+[9/14/2022, 12:55:08 PM]  Server running on port 1338!
+[9/14/2022, 12:55:08 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 12:55:09 PM]  lag detected: this tick took 20 milliseconds.
+[9/14/2022, 12:55:09 PM]  lag detected: this tick took 17 milliseconds.
+[9/14/2022, 1:17:49 PM]  Config loaded! environment: dev
+[9/14/2022, 1:17:50 PM]  loading initializer: 01_globals.js
+[9/14/2022, 1:17:50 PM]  loading initializer: 02_entities.js
+[9/14/2022, 1:17:50 PM]  loading initializer: 03_maps.js
+[9/14/2022, 1:17:50 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 1:17:50 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 1:17:50 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 1:17:50 PM]  loading initializer: 05_constants.js
+[9/14/2022, 1:17:50 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 1:17:50 PM]  Database is disabled
+[9/14/2022, 1:17:50 PM]  loading initializer: 07_console.js
+[9/14/2022, 1:17:50 PM]  starting the eval console...
+[9/14/2022, 1:17:50 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 1:17:50 PM]  loading initializer: 08_ping.js
+[9/14/2022, 1:17:50 PM]  loaded initializers!
+[9/14/2022, 1:17:50 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 1:17:50 PM]  Server running on port 1338!
+[9/14/2022, 1:17:51 PM]  lag detected: this tick took 20 milliseconds.
+[9/14/2022, 1:19:50 PM]  Config loaded! environment: dev
+[9/14/2022, 1:19:51 PM]  loading initializer: 01_globals.js
+[9/14/2022, 1:19:51 PM]  loading initializer: 02_entities.js
+[9/14/2022, 1:19:51 PM]  loading initializer: 03_maps.js
+[9/14/2022, 1:19:51 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 1:19:51 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 1:19:51 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 1:19:51 PM]  loading initializer: 05_constants.js
+[9/14/2022, 1:19:51 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 1:19:51 PM]  Database is disabled
+[9/14/2022, 1:19:51 PM]  loading initializer: 07_console.js
+[9/14/2022, 1:19:51 PM]  starting the eval console...
+[9/14/2022, 1:19:51 PM]  loading initializer: 08_ping.js
+[9/14/2022, 1:19:51 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 1:19:51 PM]  loaded initializers!
+[9/14/2022, 1:19:51 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 1:19:51 PM]  Server running on port 1338!
+[9/14/2022, 1:22:54 PM]  Config loaded! environment: dev
+[9/14/2022, 1:22:55 PM]  loading initializer: 01_globals.js
+[9/14/2022, 1:22:55 PM]  loading initializer: 02_entities.js
+[9/14/2022, 1:22:55 PM]  loading initializer: 03_maps.js
+[9/14/2022, 1:22:55 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 1:22:55 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 1:22:55 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 1:22:55 PM]  loading initializer: 05_constants.js
+[9/14/2022, 1:22:55 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 1:22:55 PM]  Database is disabled
+[9/14/2022, 1:22:55 PM]  loading initializer: 07_console.js
+[9/14/2022, 1:22:55 PM]  starting the eval console...
+[9/14/2022, 1:22:55 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 1:22:55 PM]  loading initializer: 08_ping.js
+[9/14/2022, 1:22:55 PM]  loaded initializers!
+[9/14/2022, 1:22:55 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 1:22:55 PM]  Server running on port 1338!
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:29:16 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket connected!
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:08 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:08 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:08 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:08 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:08 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:08 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:08 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:08 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:08 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:08 PM]  Message from client: Hello
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:08 PM]  Socket closed.
+[9/14/2022, 1:43:22 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:22 PM]  Socket closed.
+[9/14/2022, 1:43:26 PM]  Socket violently disconnected.
+[9/14/2022, 1:43:26 PM]  Socket closed.
+[9/14/2022, 1:43:33 PM]  Socket connected!
+[9/14/2022, 1:43:33 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:33 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:33 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:33 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:33 PM]  Socket connected!
+[9/14/2022, 1:43:33 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:33 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:33 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 1:43:33 PM]  Second hello from client: Second Kappa
+[9/14/2022, 1:43:56 PM]  Message from client: pebs
+[9/14/2022, 2:19:47 PM]  Config loaded! environment: dev
+[9/14/2022, 2:19:47 PM]  loading initializer: 01_globals.js
+[9/14/2022, 2:19:47 PM]  loading initializer: 02_entities.js
+[9/14/2022, 2:19:47 PM]  loading initializer: 03_maps.js
+[9/14/2022, 2:19:47 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 2:19:47 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 2:19:47 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 2:19:47 PM]  loading initializer: 05_constants.js
+[9/14/2022, 2:19:47 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 2:19:47 PM]  Database is disabled
+[9/14/2022, 2:19:47 PM]  loading initializer: 07_console.js
+[9/14/2022, 2:19:47 PM]  starting the eval console...
+[9/14/2022, 2:19:47 PM]  loading initializer: 08_ping.js
+[9/14/2022, 2:19:47 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 2:19:47 PM]  loaded initializers!
+[9/14/2022, 2:19:47 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 2:19:47 PM]  Server running on port 1338!
+[9/14/2022, 2:19:50 PM]  Socket connected!
+[9/14/2022, 2:19:50 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:19:50 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:19:50 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:19:50 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:19:52 PM]  Socket connected!
+[9/14/2022, 2:19:52 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:19:52 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:19:52 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:19:52 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:24:58 PM]  Config loaded! environment: dev
+[9/14/2022, 2:24:59 PM]  loading initializer: 01_globals.js
+[9/14/2022, 2:24:59 PM]  loading initializer: 02_entities.js
+[9/14/2022, 2:24:59 PM]  loading initializer: 03_maps.js
+[9/14/2022, 2:24:59 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 2:24:59 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 2:24:59 PM]  loading initializer: 05_constants.js
+[9/14/2022, 2:24:59 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 2:24:59 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 2:24:59 PM]  Database is disabled
+[9/14/2022, 2:24:59 PM]  loading initializer: 07_console.js
+[9/14/2022, 2:24:59 PM]  starting the eval console...
+[9/14/2022, 2:24:59 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 2:24:59 PM]  loading initializer: 08_ping.js
+[9/14/2022, 2:24:59 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 2:24:59 PM]  Server running on port 1338!
+[9/14/2022, 2:24:59 PM]  loaded initializers!
+[9/14/2022, 2:29:10 PM]  Config loaded! environment: dev
+[9/14/2022, 2:29:11 PM]  loading initializer: 01_globals.js
+[9/14/2022, 2:29:11 PM]  loading initializer: 02_entities.js
+[9/14/2022, 2:29:11 PM]  loading initializer: 03_maps.js
+[9/14/2022, 2:29:11 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 2:29:11 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 2:29:11 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 2:29:11 PM]  loading initializer: 05_constants.js
+[9/14/2022, 2:29:11 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 2:29:11 PM]  Database is disabled
+[9/14/2022, 2:29:11 PM]  loading initializer: 07_console.js
+[9/14/2022, 2:29:11 PM]  starting the eval console...
+[9/14/2022, 2:29:11 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 2:29:11 PM]  loading initializer: 08_ping.js
+[9/14/2022, 2:29:11 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 2:29:11 PM]  Server running on port 1338!
+[9/14/2022, 2:29:11 PM]  loaded initializers!
+[9/14/2022, 2:29:19 PM]  Socket connected!
+[9/14/2022, 2:29:19 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:29:19 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:29:19 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:29:19 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:29:19 PM]  Socket violently disconnected.
+[9/14/2022, 2:29:19 PM]  Socket closed.
+[9/14/2022, 2:30:17 PM]  Config loaded! environment: dev
+[9/14/2022, 2:30:17 PM]  loading initializer: 01_globals.js
+[9/14/2022, 2:30:17 PM]  loading initializer: 02_entities.js
+[9/14/2022, 2:30:17 PM]  loading initializer: 03_maps.js
+[9/14/2022, 2:30:17 PM]  found maps: [stress_test.js, test_map.js, test_map2.js]
+[9/14/2022, 2:30:17 PM]  loading initializer: 04_lobbies.js
+[9/14/2022, 2:30:17 PM]  Warning: Entity of object type "oPing" not found!
+[9/14/2022, 2:30:17 PM]  loading initializer: 05_constants.js
+[9/14/2022, 2:30:17 PM]  loading initializer: 06_mongodb.js
+[9/14/2022, 2:30:17 PM]  Database is disabled
+[9/14/2022, 2:30:17 PM]  loading initializer: 07_console.js
+[9/14/2022, 2:30:17 PM]  > type right into the console to execute JS code in real time <
+[9/14/2022, 2:30:17 PM]  starting the eval console...
+[9/14/2022, 2:30:17 PM]  loading initializer: 08_ping.js
+[9/14/2022, 2:30:17 PM]  loaded initializers!
+[9/14/2022, 2:30:17 PM]  Server running on port 1338!
+[9/14/2022, 2:30:17 PM]  WebSocket Server running on port 3001!
+[9/14/2022, 2:30:55 PM]  Socket connected!
+[9/14/2022, 2:31:13 PM]  Socket violently disconnected.
+[9/14/2022, 2:31:13 PM]  Socket connected!
+[9/14/2022, 2:31:13 PM]  Socket connected!
+[9/14/2022, 2:31:13 PM]  Socket connected!
+[9/14/2022, 2:31:13 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:31:13 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:31:13 PM]  Socket closed.
+[9/14/2022, 2:31:13 PM]  Socket violently disconnected.
+[9/14/2022, 2:31:13 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:31:13 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:31:13 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:31:13 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:31:13 PM]  Hello from client: Kappa Pepega
+[9/14/2022, 2:31:13 PM]  Message from client: Hello
+[9/14/2022, 2:31:13 PM]  Second hello from client: Second Kappa
+[9/14/2022, 2:31:13 PM]  Socket closed.
