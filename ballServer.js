@@ -3,6 +3,8 @@ players = []
 readied = 0
 const wss = new WebSocketServer.Server({port:process.env.PORT || 3000})
 
+console.log({port:process.env.PORT || 3000})
+
 wss.on("connection",ws => {
     console.log("Connected bitch")
 
