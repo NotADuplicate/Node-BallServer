@@ -4,7 +4,7 @@
   "description": "nodeJsThing",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node ballServer.js"
   },
   "author": "",
   "license": "ISC",
